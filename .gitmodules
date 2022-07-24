@@ -1,0 +1,6 @@
+[submodule "my_music_backend"]
+	path = my_music_backend
+	url = https://github.com/rijulchauhan/mymusic_backend-
+[submodule "my_music_frontend"]
+	path = my_music_frontend
+	url = https://github.com/rijulchauhan/mymusic_frontend
